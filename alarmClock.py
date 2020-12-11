@@ -9,7 +9,6 @@
 # and then beep a few times. Use a duration of 0 to test the 
 # alarm immediiately, e.g. for checking that the volume is okay.
 
-# Author: Vasudev Ram - http://www.dancingbison.com
 
 import sys
 import string
